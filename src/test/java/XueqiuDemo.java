@@ -115,7 +115,7 @@ public class XueqiuDemo {
 */
 
 
-    @Test
+/*    @Test
     public void hashmap(){
         HashMap<String,Object>map = new HashMap<String,Object>();
         map.put("a",1);
@@ -125,6 +125,6 @@ public class XueqiuDemo {
                 .then().log().all()
                 .statusCode(200);
 
-    }
+    }*/
 
 }
