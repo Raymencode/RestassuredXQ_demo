@@ -20,7 +20,7 @@ import static io.restassured.RestAssured.*;
 import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;
 
-public class XueqiuDemo {
+public class XueqiuDemoTest {
 
     public static String  xqtoken;
     public static Long   xquid ;
